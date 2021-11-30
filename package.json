@@ -1,0 +1,24 @@
+{
+	"name": "shure-mxa910",
+	"version": "1.0.0",
+	"api_version": "1.0.0",
+	"keywords": [ "Shure" ],
+	"manufacturer": "Shure",
+	"product": "MXA910",
+	"shortname": "mxa910",
+	"description": "",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+	"type": "git",
+		"url": "git+https://github.com/bitfocus/companion-module-shure-mxa910.git"
+	},
+	"author": "Joseph Adams <josephdadams@gmail.com>",
+	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/bitfocus/companion-module-shure-mxa910/issues"
+	},
+	"homepage": "https://github.com/bitfocus/companion-module-shure-mxa910#readme"
+}
