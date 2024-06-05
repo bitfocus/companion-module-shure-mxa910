@@ -14,6 +14,8 @@ module.exports = [
 		// this script reduces the separate increment and decrement gain actions by adding a +/- gain value
 		const result = {
 			updatedActions: [],
+			updatedFeedbacks: [],
+			updatedConfig: null,
 		}
 		for (const action of props.actions) {
 			if (action.actionId === 'channel_increasegain') {

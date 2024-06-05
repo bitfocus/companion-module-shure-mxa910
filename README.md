@@ -3,6 +3,9 @@ See HELP.MD for more information about this module.
 
 # Version History
 
+## v2.0.1 (2024-06-05)
+- Bugfix: fix upgrade script crashing module
+
 ## v2.0.0 (2024-02-19)
 - Major: Update for compatibility with Companion 3.x
 - Feature: Upgrade legacy feedbacks to boolean feedback
